@@ -1,5 +1,5 @@
 {
-    "name": "glicer/simply-html",
+    "name": "vrijdagdigital/php-simply-html",
     "type": "library",
     "description": "Simplify add, delete, modify, get nodes in html files by using css selector",
     "keywords": ["css", "selector", "html", "xml"],
